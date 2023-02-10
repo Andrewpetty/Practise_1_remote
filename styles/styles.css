@@ -1,6 +1,6 @@
 body    {
         background-color: limegreen;
-
+        margin: 20px;
 }
 
 
@@ -10,3 +10,11 @@ h1
 
 
 }
+
+p {
+
+color: darkorchid;
+font-size: 1.2em ;
+
+}
+
